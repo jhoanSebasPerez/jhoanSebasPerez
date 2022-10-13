@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhoanSebasPerez
 - 💻 I’m interested in programming and tech
-- 👁️ I’m currently learning frontend technologies
+- 👁️ I work with frontend (React js) and backend (Spring boot) technologies
 - 🐦 @JhoanPerezA0
 
 <!---
